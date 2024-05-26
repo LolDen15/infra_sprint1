@@ -1,0 +1,5 @@
+IP: 130.193.54.242;
+name_taski: https://denmay.hopto.org/;
+name_kittygram: https://denmaykitty.zapto.org/;
+login: yc-user;
+password: Admin;
